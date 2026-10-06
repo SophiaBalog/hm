@@ -1,0 +1,112 @@
+[
+  {
+    "model": "hm_app.product",
+    "pk": 1,
+    "fields": {
+      "title": "Мистецтво війни",
+      "author": "Сунь-дзи",
+      "year": 2019,
+      "genre": "Філософія / Трактат",
+      "price": "250.00"
+    }
+  },
+  {
+    "model": "hm_app.product",
+    "pk": 2,
+    "fields": {
+      "title": "Фундація",
+      "author": "Айзек Азімов",
+      "year": 2020,
+      "genre": "Фантастика",
+      "price": "320.00"
+    }
+  },
+  {
+    "model": "hm_app.product",
+    "pk": 3,
+    "fields": {
+      "title": "1984",
+      "author": "Джордж Орвелл",
+      "year": 2021,
+      "genre": "Антиутопія",
+      "price": "280.00"
+    }
+  },
+  {
+    "model": "hm_app.product",
+    "pk": 4,
+    "fields": {
+      "title": "Кобзар",
+      "author": "Тарас Шевченко",
+      "year": 2018,
+      "genre": "Поезія",
+      "price": "400.00"
+    }
+  },
+  {
+    "model": "hm_app.product",
+    "pk": 5,
+    "fields": {
+      "title": "Дюна",
+      "author": "Френк Герберт",
+      "year": 2022,
+      "genre": "Фантастика",
+      "price": "450.00"
+    }
+  },
+  {
+    "model": "hm_app.product",
+    "pk": 6,
+    "fields": {
+      "title": "Залишенець. Чорний Ворон",
+      "author": "Василь Шкляр",
+      "year": 2017,
+      "genre": "Історичний роман",
+      "price": "290.00"
+    }
+  },
+  {
+    "model": "hm_app.product",
+    "pk": 7,
+    "fields": {
+      "title": "Місто",
+      "author": "Валер'ян Підмогильний",
+      "year": 2021,
+      "genre": "Модернізм",
+      "price": "230.00"
+    }
+  },
+  {
+    "model": "hm_app.product",
+    "pk": 8,
+    "fields": {
+      "title": "Гаррі Поттер і філософський камінь",
+      "author": "Дж. К. Роулінг",
+      "year": 2016,
+      "genre": "Фентезі",
+      "price": "380.00"
+    }
+  },
+  {
+    "model": "hm_app.product",
+    "pk": 9,
+    "fields": {
+      "title": "Тигролови",
+      "author": "Іван Багряний",
+      "year": 2020,
+      "genre": "Пригодницький роман",
+      "price": "260.00"
+    }
+  },
+  {
+    "model": "hm_app.product",
+    "pk": 10,
+    "fields": {
+      "title": "Фелікс Австрія",
+      "author": "Софія Андрухович",
+      "year": 2019,
+      "genre": "Сучасна проза",
+      "price": "310.00"
+    }
+  }
+]
